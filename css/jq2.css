@@ -42,15 +42,13 @@ a:hover {
 
 
 .my-istyle {
-    height: 22px;
+  height: 22px;
     width: 22px;
     background-color: #fff;
     border-radius: 25%;
     color: gray;
-    z-index: 999;
-    bottom: 232px;
-    left: 918px;
-    text-align: center;
+   right:25px;
+   top: 2px;
     
 }
 .my-inpstyle{
